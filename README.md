@@ -1,3 +1,2 @@
 # tarot
-
-##A tarot tracking app
+A tarot tracking app
